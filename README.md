@@ -1,8 +1,4 @@
-<div align="center">
-  <br>
-  <img src="github-header-image.png" alt="banner" width="100%">
-  <br>
-</div> 
+
 
 [Personal Website](https://hulianyu.xyz/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hulianyu" alt="hulianyu" /> </p>
