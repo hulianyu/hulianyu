@@ -2,11 +2,9 @@
   <img src="github-header-image.png" alt="banner" width="100%">
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://hulianyu.xyz/" target="_blank" style="margin-right: 20px;">Personal Website</a>
-  <p align="left" style="margin: 0;">
-    <img src="https://komarev.com/ghpvc/?username=hulianyu" alt="hulianyu" />
-  </p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://hulianyu.xyz/" target="_blank">Personal Website</a>
+  <img src="https://komarev.com/ghpvc/?username=hulianyu" alt="hulianyu" />
 </div>
 
 ### My Codes on Cluster Analysis:
