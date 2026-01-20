@@ -7,7 +7,7 @@
 [Personal Website](https://hulianyu.xyz/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hulianyu" alt="hulianyu" /> </p>
 
-### Our Survey on Interpretable Clustering: 
+### <span style="color:#d4af37"><b>Our Survey on Interpretable Clustering:</b></span>
 [[PDF](https://dl.acm.org/doi/epdf/10.1145/3789495)] [[Awesome](https://github.com/hulianyu/Awesome-Interpretable-Clustering)] 
 
 ### My Codes on Cluster Analysis:
