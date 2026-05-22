@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hulianyu" alt="hulianyu" /> </p>
 
 ### Our Survey on Interpretable Clustering:
-[[PDF](https://dl.acm.org/doi/epdf/10.1145/3789495)] [[Awesome](https://github.com/hulianyu/Awesome-Interpretable-Clustering)] 
+[[PDF](https://dl.acm.org/doi/epdf/10.1145/3789495)] [[Interpretable Clustering Repository](https://hulianyu.xyz/Interpretable-Clustering-Repository/)] 
 
 ### My Codes on Cluster Analysis:
 **Clusterability evaluation** [[TestCat](https://github.com/hulianyu/TestCat)] <br>
